@@ -12,5 +12,3 @@ Would you like to meet me?
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-tasinari)](https://www.linkedin.com/in/thiago-tassinari)
-
-
